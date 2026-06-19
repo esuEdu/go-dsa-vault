@@ -1,0 +1,18 @@
+# Go binaries
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go workspace
+go.work.sum
+
+# Obsidian temp files (keep config, ignore session state)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/viewer.json
+.obsidian/graph.json
